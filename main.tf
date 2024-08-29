@@ -1,8 +1,9 @@
 provider "aws" {
   region     = "us-west-2"
-  access_key = "AKIA2UC3AMBRMFOKWBUC"
-  secret_key = "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"
-}
+  access_key = "*****"
+  secret_key = "*****"
+} 
+
 
 
 # cidr block var.vpc_cidr_block
