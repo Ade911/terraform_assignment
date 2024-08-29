@@ -15,7 +15,7 @@ variable "ami_id" {
 
 
 variable "subnet_id" {
-  description = "The ID of the subnet to deploy the EC2 instance into."
+  description = "The ID of the subnet to deploy the EC2 instance into is provided here."
 }
 
 variable "security_group_ids" {
